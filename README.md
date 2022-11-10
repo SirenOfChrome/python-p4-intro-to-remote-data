@@ -11,9 +11,11 @@
 ## Key Vocab
 
 - **JSON**: JSON is an open standard file format and data interchange format.
-that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and arrays.
+  that uses human-readable text to store and transmit data objects consisting of
+  attribute–value pairs and arrays.
 - **Endpoint**: An endpoint is one end of a communication channel.
-- **API**: API is the acronym for Application Programming Interface, which is a software intermediary
+- **API**: API is the acronym for Application Programming Interface, which is a
+  software intermediary
  that allows two applications to talk to each other.
 
 ***
@@ -41,6 +43,9 @@ We'll discuss the answers to the following questions along the way:
 In the next couple of lessons, we'll talk about leveraging remote data in our
 applications.
 
+***
+
 ## Resources
+
 - [What is an API?] (https://www.mulesoft.com/resources/api/what-is-an-api)
 - [Python](https://docs.python.org/3/)
